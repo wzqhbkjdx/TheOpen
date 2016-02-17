@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.cgtrc.bym.openchina"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+
+    // 移除lint检查的error
+    lintOptions {
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile project(':social_sdk_library_project')
+    compile files('libs/baidumapapi_v3_2_0.jar')
+    compile files('libs/library-2.4.0.jar')
+    compile files('libs/locSDK_3.1.jar')
+    compile files('libs/pinyin4j-2.5.0.jar')
+    compile files('libs/xstream-1.4.7.jar')
+
+    compile 'com.github.chrisbanes.photoview:library:1.2.3'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'com.jakewharton:butterknife:6.1.0'
+    compile 'org.kymjs.kjframe:kjframe:2.6'
+    compile 'com.networkbench.newlens.agent.android:nbs.newlens.agent:2.2.7'
+    compile 'com.google.zxing:core:3.2.0'
+    compile 'com.joanzapata.android:android-iconify:1.0.9'
+    compile 'com.makeramen:roundedimageview:2.1.1'
+
+}
