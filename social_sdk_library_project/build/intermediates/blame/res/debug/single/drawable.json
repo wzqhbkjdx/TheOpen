@@ -156,12 +156,12 @@
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_ynote_gray.png"
     },
     {
-        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
-        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
-    },
-    {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_flickr.png"
     },
     {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
@@ -452,12 +452,12 @@
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_instagram_off.png"
     },
     {
-        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
-        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_comment_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_comment_icon.xml"
     },
     {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
@@ -516,12 +516,12 @@
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_on.png"
     },
     {
-        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
-        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
-    },
-    {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml",
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\src\\main\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
     },
     {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",

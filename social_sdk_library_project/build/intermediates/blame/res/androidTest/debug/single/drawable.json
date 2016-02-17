@@ -428,12 +428,12 @@
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_right_bt.xml"
     },
     {
-        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
-        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_back_bt.xml"
-    },
-    {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
         "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_title_back_bt.xml"
     },
     {
         "merged": "C:\\Users\\BYM\\AndroidStudioProjects\\OpenChina\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
